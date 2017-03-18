@@ -1,4 +1,4 @@
-<div display="block" align="center"><img width=45% src="https://github.com/diaxdo/localbrew/blob/master/logonew.png"></div>
+<div display="block" align="center"><img width=45% src="https://github.com/diaxdo/localbrew/blob/master/localbrew_drib.png"></div>
 
 # About Local Brew 
 Ever wanted to check out the nearest breweries to your current location? Local Brew gathers your location through your mobile device and searches for awesome breweries for you to visit! It's a great way to try different brews, and to explore your city. Cheers! 
